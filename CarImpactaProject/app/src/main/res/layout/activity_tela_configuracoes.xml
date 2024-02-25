@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".TelaConfiguracoes"
     tools:layout_editor_absoluteX="7dp"
-    tools:layout_editor_absoluteY="-1dp">
+    tools:layout_editor_absoluteY="-1dp"
+    android:background="@color/yellowImpacta">
 
     <TextView
         android:id="@+id/titulodaTelaCorridaDiaria2"
